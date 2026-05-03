@@ -8,7 +8,9 @@ NosCode YouTube Abone Olmayı Unutmayın!
 
 ## Botu Çalıştırmadan Önce
 **.env dosyası oluşturup aşağıdaki kodu yapıştırıp gerekli yerleri doldurup botu çalıştırabilirsiniz**
+
 **Botu Çalıştırmak için ilk *npm i***
+
 **Ardından *npm start***
 
 DISCORD_TOKEN= # Discord Developer Portal'dan aldığınız bot tokenını buraya yapıştırın
