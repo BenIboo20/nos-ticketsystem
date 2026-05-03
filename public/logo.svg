@@ -1,0 +1,24 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="120" rx="28" fill="url(#bg)"/>
+  <rect x="8" y="8" width="404" height="104" rx="22" stroke="url(#stroke)" stroke-opacity="0.7"/>
+  <path d="M56 32C47.1634 32 40 39.1634 40 48V72C40 80.8366 47.1634 88 56 88H79L95 100V88H112C120.837 88 128 80.8366 128 72V48C128 39.1634 120.837 32 112 32H56Z" fill="url(#bubble)"/>
+  <path d="M58 51H110" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M58 68H94" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <text x="152" y="58" fill="white" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">NosCode</text>
+  <text x="152" y="86" fill="#D0B5FF" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Ticket Sistemi</text>
+  <defs>
+    <linearGradient id="bg" x1="22" y1="12" x2="392" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12071F"/>
+      <stop offset="0.52" stop-color="#1C0C33"/>
+      <stop offset="1" stop-color="#08040F"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="27" y1="10" x2="402" y2="113" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9A5CFF"/>
+      <stop offset="1" stop-color="#4A1C8C"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="40" y1="32" x2="128" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>
